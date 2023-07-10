@@ -39,13 +39,13 @@ Refer to the LISCENSE in the repo
 
 This project contains the following features:
  
- -If the time of day has passed the time on the calendar, the
+- If the time of day has passed the time on the calendar, the
  highlighted time will be grey
-  -If the time of day is the same as the time on the calendar, the
+- If the time of day is the same as the time on the calendar, the
  highlighted time will be red
-  -If the time of day hasn't passed the time on the calendar, the
+- If the time of day hasn't passed the time on the calendar, the
  highlighted time will be green
- - The information you enter will be saved.
+- The information you enter will be saved.
  
 
 
